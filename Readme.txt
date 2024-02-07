@@ -1,10 +1,7 @@
 #ReSingleWiki-
 
-  Projeto de site único e informativo com conteúdo variável para o 1° trimestre.
+  Projeto de site informativo de conteúdo variável para o 1° trimestre.
 
-  Utilizado principalmente JavaScript e CSS tendo em mente que são as linguagens a ser abordadas no momento.
+  Utilizado principalmente JavaScript e CSS tendo em mente que são as principais linguagens a ser abordadas no momento.
 
-  Seu objetivo é informar o leitor de forma extensa e completa sobre: Os princípios fundamentais da programação, estes que podem ser aplicadas a qualquer tipo de linguagem de programação, sendo um ponto de partida para o aprendizado da área, contando com exemplos práticos e de simples compreensão.
-
-
-Vitor;
+  Seu objetivo é informar de forma extensa e completa sobre: Os princípios fundamentais da programação, sendo um ponto de partida para o aprendizado na área, contando com simples compreensão.
