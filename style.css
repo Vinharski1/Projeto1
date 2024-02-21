@@ -1,19 +1,46 @@
 body {
    background-color: #44475A;
 }
-.container {
-   display: flex;
-   justify-content: center;
-}
 .titulo {
    background-color: #282A36;
-   font-size: larger;
+   font-size: 100px;
    color: white;
-
+   text-align: center;
+   margin: auto;
+   line-height: 200px;
+   height: 220px;
+}
+.itens {
+   text-align: center;
+   padding: 20px;
+   font-size: 22px;
+   line-height: 36px;
+}
+.subtitulos {
+   font-size: 25px;
+   height: 65px;
+}
+.container {
+   display: flex;
+   flex-direction:row;
+   height: auto;
+}
+.container div {
+   width: 75%;
+   padding: 25px;
 }
 .conteudo {
    color: white;
-   text-align: left;
-   margin:auto 0;
-   width: 400px;
+   font-style: normal;
+   margin: auto 0;
+   font-size: 18px;
+   text-align: center;
+}
+.footer {
+   background-color: #282A36;
+   color: white;
+   font-size: 17px;
+   text-align: center;
+   line-height: 60px;
+   height: 70px;
 }
