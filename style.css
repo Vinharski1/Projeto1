@@ -15,6 +15,9 @@ body {
    padding: 20px;
    font-size: 22px;
    line-height: 36px;
+   display: flex;
+   flex-direction:row;
+   height: auto;
 }
 .subtitulos {
    font-size: 25px;
